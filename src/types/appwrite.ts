@@ -61,3 +61,5 @@ export interface Script {
   ref_videos?: string;
   $createdAt: string;
 }
+
+export const DATABASE_ID = 'naghamdb';
